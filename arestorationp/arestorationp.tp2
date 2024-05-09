@@ -96,7 +96,7 @@ LANGUAGE ~Simplified Chinese (by Sebastian C)~
          ~arestorationp/language/english/game.tra~
          ~arestorationp/language/english/setup.tra~
          ~arestorationp/language/schinese/game.tra~
-         ~arestorationp/language/schinese/setup.tra~
+         ~arestorationp/language/schinese/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Francais (by Isaya and the d'Oghmatiques)~
 		 ~french~
          ~arestorationp/language/english/game.tra~
