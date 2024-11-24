@@ -28,7 +28,7 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 <br>
 
 [<img alt="Download" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/download.svg" height="28">](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases/latest)&nbsp;
-[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme.arp.html)&nbsp;
+[<img alt="Readme" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/readme.svg" height="28">](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme-arp-english.html)&nbsp;
 [<img alt="Webpage" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/webpage.svg" height="28">](https://spellhold-studios.github.io/)&nbsp;
 [<img alt="Discord" src="https://raw.githubusercontent.com/Spellhold-Studios/Spellhold-Studios.github.io/main/assets/buttons/discord-blue.svg" height="28">](https://discord.gg/pE2Njbdb2a)
 
@@ -36,7 +36,7 @@ Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 
 The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore literally all unused sounds as well as some minor cut characters or locations. In recent iterations it evolved into the younger, brasher sidekick of Unfinished Business.
 
-*Please check the complete [Readme](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme.arp.html) to learn more about this mod before installation.*
+*Please check the complete [Readme](https://spellhold-studios.github.io/readmes/almaterias-restoration-project/readme-arp-english.html) to learn more about this mod before installation.*
 
 ## Components
 
