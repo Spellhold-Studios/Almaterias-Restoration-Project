@@ -2,7 +2,7 @@ BACKUP ~arestorationp/backup~
 //AUTHOR 
 SUPPORT ~http://www.shsforums.net/forum/658-almaterias-restoration-project/~
 VERSION ~v10.0~
-README "arestorationp/language/%LANGUAGE%/readme.arp.html" "arestorationp/language/english/readme.arp.html"
+README "arestorationp/readme/readme-arp-%LANGUAGE%.html" "arestorationp/readme/readme-arp-english.html"
 AUTO_TRA ~arestorationp/language/%s~
 //%
 
