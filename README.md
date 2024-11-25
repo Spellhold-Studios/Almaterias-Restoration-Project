@@ -68,7 +68,7 @@ The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore li
 
 **Translators**  
 
-- Chinese (Simplified) &nbsp;&ndash;&nbsp; Sebastian C
+- Chinese (Simplified) &nbsp;&ndash;&nbsp; Sebastian C and Lzw104522773
 - Czech &nbsp;&ndash;&nbsp; Radim "Edvin" Klimek
 - Dutch &nbsp;&ndash;&nbsp; Tzarnal
 - Faroese &nbsp;&ndash;&nbsp; inscrutable horse

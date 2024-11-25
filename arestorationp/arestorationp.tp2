@@ -91,12 +91,12 @@ LANGUAGE ~Foeroyskr (BG2EE) (by inscrutable horse)~
          ~arestorationp/language/english/setup.tra~
          ~arestorationp/language/faroese/game.tra~
          ~arestorationp/language/faroese/setup.tra~
-LANGUAGE ~Simplified Chinese (by Sebastian C)~
+LANGUAGE ~Simplified Chinese (by Sebastian C and Lzw104522773)~
 		 ~schinese~
          ~arestorationp/language/english/game.tra~
          ~arestorationp/language/english/setup.tra~
-         ~arestorationp/language/schinese/setup.tra~
          ~arestorationp/language/schinese/game.tra~
+         ~arestorationp/language/schinese/setup.tra~
 LANGUAGE ~Francais (by Isaya and the d'Oghmatiques)~
 		 ~french~
          ~arestorationp/language/english/game.tra~
