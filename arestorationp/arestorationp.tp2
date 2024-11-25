@@ -28,7 +28,7 @@ ALWAYS
     OUTER_SET EVAL ~%name_source%~ = bg2_chapter
   END
   OUTER_SPRINT tra_path ~%MOD_FOLDER%/language~
-  ACTION_DEFINE_ARRAY l-noconvert BEGIN setup setup-osx setup-unix setup-win32 END
+  ACTION_DEFINE_ARRAY l-noconvert BEGIN setup END
   ACTION_DEFINE_ARRAY l-reload BEGIN game END
   ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table BEGIN
     english => cp1252
@@ -94,9 +94,8 @@ LANGUAGE ~Foeroyskr (BG2EE) (by inscrutable horse)~
 LANGUAGE ~Simplified Chinese (by Sebastian C)~
 		 ~schinese~
          ~arestorationp/language/english/game.tra~
-         ~arestorationp/language/english/setup.tra~
+         ~arestorationp/language/schinese/setup.tra~
          ~arestorationp/language/schinese/game.tra~
-         ~arestorationp/language/schinese/setup-%WEIDU_OS%.tra~
 LANGUAGE ~Francais (by Isaya and the d'Oghmatiques)~
 		 ~french~
          ~arestorationp/language/english/game.tra~
