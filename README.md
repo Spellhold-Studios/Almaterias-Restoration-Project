@@ -65,6 +65,7 @@ The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore li
 **Contributors**  
 
 - jastey &nbsp;&ndash;&nbsp; maintenance (versions 9&ndash;10)
+- skellytz &nbsp;&ndash;&nbsp; maintenance (version 10.1)
 
 **Translators**  
 
