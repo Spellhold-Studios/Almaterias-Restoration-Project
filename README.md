@@ -4,7 +4,7 @@
 [![Views](https://badges.pufler.dev/visits/Spellhold-Studios/Almaterias-Restoration-Project?label=views&color=%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
 [![Games](https://img.shields.io/badge/games-BG2%20%a0%20BGT%20%a0%20BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
-[![Language](https://img.shields.io/badge/language-en%20%a0%20cs%20%a0%20de%20%a0%20fo%20%a0%20fr%20%a0%20it%20%a0%20nl%20%a0%20pl%20%a0%20pt--BR%20%a0%20ru%20%a0%20sp%20%a0%20zh--CN-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20cs%20%a0%20de%20%a0%20es%20%a0%20fo%20%a0%20fr%20%a0%20it%20%a0%20nl%20%a0%20pl%20%a0%20pt--BR%20%a0%20ru%20%a0%20zh--CN-%2392403a)](https://github.com/Spellhold-Studios/Almaterias-Restoration-Project/releases)
 
 <!--
 Badges white space separator: %20%a0%20
