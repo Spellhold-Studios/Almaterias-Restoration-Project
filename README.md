@@ -69,14 +69,14 @@ The Restoration Project (ARP) is a mod for Baldur's Gate II aiming to restore li
 
 **Translators**  
 
-- Chinese (Simplified) &nbsp;&ndash;&nbsp; Sebastian C and Lzw104522773
-- Czech &nbsp;&ndash;&nbsp; Radim "Edvin" Klimek
-- Dutch &nbsp;&ndash;&nbsp; Tzarnal
-- Faroese &nbsp;&ndash;&nbsp; inscrutable horse
-- French &nbsp;&ndash;&nbsp; Isaya and the d'Oghmatiques
-- German &nbsp;&ndash;&nbsp; Dachrisma
-- Italian &nbsp;&ndash;&nbsp; Sergio
-- Latin &nbsp;&ndash;&nbsp; Sleep of Bronze
-- Portuguese (Brazil) &nbsp;&ndash;&nbsp; Felipe
-- Russian &nbsp;&ndash;&nbsp; Austin and ArcaneCoast.ru
-- Spanish &nbsp;&ndash;&nbsp; Memnoch
+- **Chinese (Simplified)**:&nbsp; Sebastian C and Lzw104522773
+- **Czech**:&nbsp; Radim "Edvin" Klimek
+- **Dutch**:&nbsp; Tzarnal
+- **Faroese**:&nbsp; inscrutable horse
+- **French**:&nbsp; Isaya and the d'Oghmatiques
+- **German**:&nbsp; Dachrisma
+- **Italian**:&nbsp; Sergio
+- **Latin**:&nbsp; Sleep of Bronze
+- **Portuguese (Brazil)**:&nbsp; Felipe
+- **Russian**:&nbsp; Austin and ArcaneCoast.ru
+- **Spanish**:&nbsp; Memnoch
